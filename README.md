@@ -1,9 +1,9 @@
-# 🌐 Maisha's Portfolio
+# Habiba Ahmed Maisha
 
 ## 👩‍🎓 Education
 
 **Bachelor of Science in Computer Science & Engineering (CSE)**
-*(Replace with your university name)*
+*(Leading University)*
 
 ---
 
@@ -40,5 +40,5 @@
 
 ## 📫 Contact
 
-* Email: (your email here)
-* LinkedIn: (your LinkedIn link)
+* Email: (ahmedmaisha.official@gmail.com)
+* phone:01709764740
