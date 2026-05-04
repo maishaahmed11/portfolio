@@ -1,12 +1,44 @@
-# portfolio
+# 🌐 Maisha's Portfolio
 
-### Education
-Physics, Phd
+## 👩‍🎓 Education
 
-### Work Experience
-Data scientist 
--big impact project 1!
--big impact project 2!
+**Bachelor of Science in Computer Science & Engineering (CSE)**
+*(Replace with your university name)*
 
-### Projects
-EEG Band Discovery
+---
+
+## 💼 Work Experience
+
+**Data Science Enthusiast**
+
+* Worked on impactful data-driven projects
+* Built solutions focusing on real-world problems
+
+**Key Contributions:**
+
+* Big Impact Project 1
+* Big Impact Project 2
+
+---
+
+## 🚀 Projects
+
+**EEG Band Discovery**
+
+* Analyzed brain signal data to identify different EEG frequency bands
+* Focused on extracting meaningful insights from raw signal data
+
+---
+
+## 🛠️ Skills
+
+* Programming: Java, Dart
+* Technologies: Flutter
+* Concepts: Data Analysis, Problem Solving
+
+---
+
+## 📫 Contact
+
+* Email: (your email here)
+* LinkedIn: (your LinkedIn link)
