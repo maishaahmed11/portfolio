@@ -1,44 +1,47 @@
-# Habiba Ahmed Maisha
-
 ## 👩‍🎓 Education
 
 **Bachelor of Science in Computer Science & Engineering (CSE)**
 *(Leading University)*
 
 ---
+##Career Objective
 
-## 💼 Work Experience
+Motivated Computer Science and Engineering student with strong interest in software development, artificial intelligence, and web technologies. Seeking opportunities to apply technical skills in real-world projects, improve problem-solving abilities, and grow as a professional software engineer.
 
-**Data Science Enthusiast**
 
-* Worked on impactful data-driven projects
-* Built solutions focusing on real-world problems
+**💼 Experience
+Academic Project Developer – University Coursework
+Personal Project Developer (Self-learning)
+Actively practicing programming and problem-solving on GitHub
 
-**Key Contributions:**
-
-* Big Impact Project 1
-* Big Impact Project 2
+---
+**🚀 Projects
+🔹 Portfolio Website
+Built a personal portfolio using HTML, CSS, and JavaScript
+Showcases skills, projects, and contact information
+🔹 AI / Machine Learning Projects
+Worked on basic AI-based academic projects
+Implemented data analysis and simple prediction models
+🔹 EEG Band Discovery Project
+Academic research-based project on signal analysis
+Focused on understanding brainwave patterns
 
 ---
 
-## 🚀 Projects
-
-**EEG Band Discovery**
-
-* Analyzed brain signal data to identify different EEG frequency bands
-* Focused on extracting meaningful insights from raw signal data
-
+**💻 Technical Skills
+Programming Languages: Java, Python, Dart, C
+Web Development: HTML, CSS, JavaScript
+Frameworks: Flutter (learning), basic AI/ML concepts
+Tools: Git, GitHub, VS Code
+Other: Data Structures & Algorithms, Problem Solving
 ---
-
-## 🛠️ Skills
-
-* Programming: Java, Dart
-* Technologies: Flutter
-* Concepts: Data Analysis, Problem Solving
-
----
-
+**🎯 Interests
+Software Development
+Artificial Intelligence
+Mobile App Development (Flutter)
+Problem Solving & Competitive Programming
 ## 📫 Contact
 
 * Email: (ahmedmaisha.official@gmail.com)
 * phone:01709764740
+* GitHub: https://github.com/maishaahmed11
